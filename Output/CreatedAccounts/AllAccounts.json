@@ -1,0 +1,9 @@
+[ {
+  "id" : 1,
+  "accountHolderName" : "Alice",
+  "balance" : 1000.0
+}, {
+  "id" : 2,
+  "accountHolderName" : "George",
+  "balance" : 500.0
+} ]

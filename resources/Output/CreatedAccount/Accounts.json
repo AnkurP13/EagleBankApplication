@@ -1,0 +1,8 @@
+{
+  "accountNumber" : "01100000",
+  "sortCode" : "10-10-10",
+  "name" : "My Savings Account",
+  "accountType" : "personal",
+  "balance" : 0,
+  "currency" : "GBP",
+  "createdTimestamp"

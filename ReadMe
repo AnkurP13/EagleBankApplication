@@ -1,0 +1,8 @@
+Curl commands to create account -
+1. curl -X POST http://localhost:8080/api/accounts \
+     -H "Content-Type: application/json" \
+     -d @resources\createAccount\createA01.json
+
+
+curl -X POST http://localhost:8080/api/accounts -H @{"Content-Type"="application/json"} -Body (Get-Content -Raw -Path "resources\createAccount\createA01.json")
+curl.exe -X POST http://localhost:8080/api/accounts -H "Content-Type: application/json" -d @resources\createAccount\createA01.json
